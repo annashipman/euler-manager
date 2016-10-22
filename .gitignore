@@ -20,5 +20,6 @@ tmp
 *.pyc
 *.class
 /vendor
+.vagrant
 
 /data/answers-raw.yml
